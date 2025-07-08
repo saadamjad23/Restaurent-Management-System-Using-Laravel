@@ -17,6 +17,23 @@ The **Restaurant Management System** is a database-driven web application develo
 - **Database:** MySQL
 - **Version Control:** Git & GitHub
 
+> ⚠️ **Note:** The actual Laravel source code is hosted in a separate repository:  
+👉 [Restaurant Laravel Code Repository](https://github.com/saadamjad23/restaurant-laravel)
+
+---
+
+## 📁 Project Structure
+
+
+restaurant-management-system/
+│
+├── documents/            # DBMS documentation and milestone reports
+├── diagrams/             # ERD, schema designs, and relational models
+├── milestones/           # Reports for each DBMS milestone
+├── screenshots/          # Screenshots of the working system
+└── README.md             # Project documentation
+
+
 ---
 
 ## ✅ Key Features
@@ -38,5 +55,54 @@ This project fulfills several **DBMS concepts**, including:
 - **Normalization & Data Integrity**
 - **CRUD Operations**
 - **Joins and Relationships**
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- PHP >= 8.1
+- Composer
+- MySQL
+- Laravel 10.x
+- XAMPP or Laravel Homestead (Optional)
+
+### Laravel Code
+
+To set up and run the Laravel system, visit the main Laravel code repository:  
+🔗 [https://github.com/saadamjad23/restaurant-laravel](https://github.com/saadamjad23/restaurant-laravel)
 
 ---
+
+## 📸 Screenshots
+
+> Add images of the login page, dashboard, orders page, etc., here for visual context.
+
+---
+
+## 👥 Contributors
+
+| Name                         | GitHub Username                                | Role             |
+|------------------------------|------------------------------------------------|------------------|
+| Muhammad Saad Amjad Khan     | [@saadamjadkhan](https://github.com/saadamjad23) | Overall Laravel & Database Development |
+| Muhammad Ehzaz Khan          | [@ehzazkhan](https://github.com/ehzazkhan)         | Project Flow Suggestions    |
+| Muhammad Kamil Khan          | [@kamilkhan](https://github.com/KamilKhan23)         | Documentation   |
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📚 Acknowledgements
+
+- Laravel Documentation
+- MySQL Tutorials
+- Bootstrap / Admin Template
+- [Youtube](https://www.youtube.com/watch?v=nnD-D1MZC7Q&list=PLm8sgxwSZofcG-Dcf634oCKB4Jx0j-Bmz)
+- ChatGPT
+- Claude
+- [Admin Templete](https://github.com/yaminshakil)
+- DBMS Course ([Engr. Sumayyea Salahuddin](https://github.com/SSalahuddin) / University of Engineering & Technology, Peshawar)
