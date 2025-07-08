@@ -22,20 +22,6 @@ The **Restaurant Management System** is a database-driven web application develo
 
 ---
 
-## 📁 Project Structure
-
-
-restaurant-management-system/
-│
-├── documents/            # DBMS documentation and milestone reports
-├── diagrams/             # ERD, schema designs, and relational models
-├── milestones/           # Reports for each DBMS milestone
-├── screenshots/          # Screenshots of the working system
-└── README.md             # Project documentation
-
-
----
-
 ## ✅ Key Features
 
 - 🧾 **Order Management:** Place, track, and manage customer orders.
