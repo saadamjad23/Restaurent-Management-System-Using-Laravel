@@ -62,8 +62,12 @@ To set up and run the Laravel system, visit the main Laravel code repository:
 
 ## 📸 Screenshots
 
-> Add images of the login page, dashboard, orders page, etc., here for visual context.
+### Home Page
+![Home Page](Images/homepage.png)
 
+![Admin Dashboard](Images/adminpage.png)
+
+> For more, View Project Report
 ---
 
 ## 👥 Contributors
